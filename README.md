@@ -21,6 +21,3 @@ This is a basic calculator implemented using HTML, CSS, and JavaScript. The calc
 - `styles.css`: Contains the styles for the calculator.
 - `script.js`: Contains the functionality of the calculator.
 
-## License
-
-This project is open-source and available under the MIT License.
